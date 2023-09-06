@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\HP\Desktop\институт\Информационные системы поддержки производственных процессов\Lab\Unit1.dfm=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.004,C:\Users\HP\Desktop\институт\Информационные системы поддержки производственных процессов\Lab\Unit1.pas=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.156,=C:\Users\HP\Desktop\институт\Информационные системы поддержки производственных процессов\Lab\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,=C:\Users\HP\Desktop\институт\Информационные системы поддержки производственных процессов\Lab\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.361,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.307,C:\Users\HP\Desktop\институт\Информационные системы поддержки производственных процессов\Lab\Project1.dproj=C:\Users\HP\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.696,C:\Users\HP\Desktop\институт\Информационные системы поддержки производственных процессов\Lab\Project1.dproj=C:\Users\HP\Desktop\институт\Информационные системы поддержки производственных процессов\Lab\MES.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
